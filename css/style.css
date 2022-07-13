@@ -339,6 +339,10 @@ h2 {
     padding-bottom: 115px;
 }
 
+.footer__right {
+    text-align: end;
+}
+
 .tarrifs h3 {
     font-weight: 400;
     font-size: 16px;
@@ -930,6 +934,7 @@ th {
     color: #1b1b1c;
     text-align: right;
     display: block;
+    margin-bottom: 6px;
 }
 
 .footer__left img {
