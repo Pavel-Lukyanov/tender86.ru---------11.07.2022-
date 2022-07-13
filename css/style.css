@@ -678,6 +678,7 @@ th {
 .examples__accordeon__dropdown span {
     font-size: 20px;
     margin-top: 30px;
+    display: block;
 }
 
 .examples__accordeon__dropdown a {
