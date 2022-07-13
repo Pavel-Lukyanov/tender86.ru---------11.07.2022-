@@ -622,6 +622,12 @@ th {
     padding: 20px;
     border-top: solid 2px #3d7887;
     gap: 15px;
+    transition: 0.3s;
+}
+
+.examples__accordeon-btn:hover {
+    background-color: #F2F6FA;
+    transition: 0.3s;
 }
 
 .examples__accordeon-btn h3 {
