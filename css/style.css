@@ -590,6 +590,10 @@ th {
     padding-bottom: 60px;
 }
 
+.reviews h2 {
+    padding-top: 60px;
+}
+
 .swiper-button-next, .swiper-button-prev {
     color: #1b1b1c;
 }
